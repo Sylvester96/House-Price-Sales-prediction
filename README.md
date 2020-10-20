@@ -166,3 +166,5 @@ SaleType: Type of sale
 SaleCondition: Condition of sale
 
 With 79 explanatory variables the task at hand is to predict the final price of each home using regressions methods such simple Linear regression, Ridge and Lasso.
+
+Language used is Python.
